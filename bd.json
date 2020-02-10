@@ -1,16 +1,14 @@
 {
-  "Nikita": [
-    { "id": "20200210",
-      "events": [{
+  "Nikita": {
+      "20200210": {
+        "0800":{
         "timeFrom": "0800",
         "timeTo":"0900",
         "title": "job",
         "comment": "Blablabla",
         "priority":"low",
         "person":"alone"
-
+        }
       }
-
-       ]}
-  ]
+    }
 }
