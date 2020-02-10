@@ -1,6 +1,7 @@
 {
   "Nikita": {
-      "id2020021008000": {
+      "day20200210:{
+           "time0800": {
         
         "timeFrom": "0800",
         "timeTo":"0900",
@@ -8,7 +9,7 @@
         "comment": "Blablabla",
         "priority":"low",
         "person":"alone"
-        
+        }
       }
     }
 }
