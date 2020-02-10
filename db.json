@@ -9,6 +9,15 @@
         "comment": "Blablabla",
         "priority":"low",
         "person":"alone"
+        },
+        "time0900": {
+        
+        "timeFrom": "0800",
+        "timeTo":"0900",
+        "title": "job",
+        "comment": "Blablabla",
+        "priority":"low",
+        "person":"alone"
         }
       }
     }
